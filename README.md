@@ -1,1 +1,1 @@
-claimcoin.in#false#
+claimcoin.in#true#
